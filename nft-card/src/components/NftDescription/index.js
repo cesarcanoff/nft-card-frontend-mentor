@@ -1,10 +1,10 @@
 import React from "react";
-import { ContainerDescription, TextDescription } from "./styles";
+import { DescriptionContainer, TextDescription } from "./styles";
 
 export const NftDescription = ({ content }) => {
   return (
-    <ContainerDescription>
+    <DescriptionContainer>
       <TextDescription>{content}</TextDescription>
-    </ContainerDescription>
+    </DescriptionContainer>
   );
 };

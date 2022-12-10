@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const ContainerDescription = styled.div`
+export const DescriptionContainer = styled.div`
   padding: 1% 0;
   margin-bottom: 15px;
 `;

@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const CardContainer = styled.div`
   width: 100%;
-  max-width: 400px;
+  max-width: 370px;
   background-color: #14253d;
   padding: 25px;
   border-radius: 7px;

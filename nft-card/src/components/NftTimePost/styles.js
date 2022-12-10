@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const NftTimeContainer = styled.div`
   width: 50%;
@@ -13,4 +13,4 @@ export const NftTimeContainer = styled.div`
 
 export const NftTimeText = styled.p`
   color: #8bacda;
-`
+`;

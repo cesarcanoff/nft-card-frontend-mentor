@@ -1,10 +1,10 @@
-import React from 'react'
-import { ContainerImage } from './style'
+import React from "react";
+import { ImageContainer } from "./style";
 
 export const NftImage = ({ imagePath }) => {
   return (
-    <ContainerImage>
+    <ImageContainer>
       <img src={imagePath} alt="" />
-    </ContainerImage>
-  )
-}
+    </ImageContainer>
+  );
+};

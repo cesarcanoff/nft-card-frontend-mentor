@@ -1,11 +1,11 @@
 import React from 'react'
 
-import { ContainerNftInformation } from './styles'
+import { NftInformationContainer } from './styles'
 
 export const NftInformation = ({ children }) => {
   return (
-    <ContainerNftInformation>
+    <NftInformationContainer>
       { children }
-    </ContainerNftInformation>
+    </NftInformationContainer>
   )
 }

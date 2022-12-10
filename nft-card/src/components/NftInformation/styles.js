@@ -1,6 +1,6 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
-export const ContainerNftInformation = styled.div`
+export const NftInformationContainer = styled.div`
   display: flex;
   padding-bottom: 20px;
   align-items: center;
