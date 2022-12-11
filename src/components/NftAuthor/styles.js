@@ -20,4 +20,8 @@ export const AuthorName = styled.p`
   a {
     color: #fff;
   }
+  
+  a:hover {
+    color: #00fff7;
+  }
 `;
